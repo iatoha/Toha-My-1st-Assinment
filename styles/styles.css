@@ -1,0 +1,478 @@
+body {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+
+}
+
+main {
+    padding-bottom: 120px;
+}
+
+/* Baner-01 St */
+.banner1 {
+    margin: auto;
+    max-width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../img/Banner\ Image.png);
+    background-repeat: no-repeat;
+    font-family: Merriweather;
+    color: #FFF;
+    background-position: center;
+    border: 1px solid white;
+    border-radius: 19px;
+}
+
+.banner1-title {
+    font-size: 32px;
+    padding: 177px 531px 16px 531px;
+    font-weight: 400;
+
+}
+
+.banner1-dec {
+    padding: 0PX 344PX 177PX 344PX;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+
+}
+/* Baner End */
+
+
+
+/* Baner-02 ST */
+.banner2 {
+    font-family: Inter;
+}
+
+.banner2-title {
+    color: #F00;
+    padding-top: 120px;
+    padding-bottom: 48px;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.banner2-dec-1 {
+    color: #F00;
+    padding-top: 0px;
+    padding-bottom: 16px;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.banner2-dec-2 {
+    color: #070211;
+    padding-top: 0px;
+    padding-bottom: 48px;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.banner2-img {
+    padding-bottom: 120px;
+}
+
+
+/* Baner-02 End */
+
+
+
+/* Baner-03 ST */
+.banner3-con {
+    display: flex;
+    margin: auto;
+    max-width: 1320px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../img/Vectorrr.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Merriweather;
+    color: #FFF;
+    text-align: left;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 16px;
+}
+
+
+.banner3-title {
+    padding-top: 126px;
+    padding-left: 126px;
+    padding-bottom: 24px;
+    max-width: 642px;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+
+.banner3-dec {
+    padding-top: 0px;
+    padding-left: 126px;
+    padding-bottom: 0px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 697px;
+}
+
+.banner3-button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    padding-left: 158px;
+    padding-top: 48px;
+    margin-bottom: 142px;
+    font-weight: 700;
+    border: none;
+    text-transform: uppercase;
+    background-color: transparent;
+
+
+}
+
+.banner3-img {
+    display: flex;
+    max-width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* Baner-03 End */
+
+
+
+
+/* Baner-04 ST */
+
+.banner4-con {
+
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 19px;
+    margin: auto;
+    margin-top: 120px;
+    max-width: 1320px;
+    height: 482px;
+    align-items: center;
+    text-align: center;
+    font-family: Inter;
+}
+
+.banner4-info {
+    padding: 100px 386px 48px 385px;
+    color: #F00;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.banner4-info>span {
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.banner4-button {
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: red;
+    border: 1px solid white;
+    margin-top: 0px;
+    padding: 16px 32px
+}
+
+/* Baner-04 End */
+
+
+
+/* Baner-05 ST */
+.banner5-con {
+    padding-top: 120px;
+    display: flex;
+    max-width: 1320px;
+    margin: auto;
+    justify-content: space-between;
+
+}
+
+.banner5-info-1 {
+    text-align: left;
+    font-family: Inter;
+}
+
+.banner5-info-1>h3 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+
+.banner5-info-1-p1 {
+    padding-top: 0px;
+    padding-bottom: 22px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.banner5-info-1-p2 {
+    padding-top: 0px;
+    max-width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.banner5-info-2 {
+    border-radius: 463px;
+    border: 15px solid #F00;
+
+}
+
+.banner5-info-2-img {
+    border-radius: 463px;
+    border: 15px solid transparent;
+}
+
+.banner5-info-3 {
+    text-align: left;
+    font-family: Inter;
+    align-items: left;
+}
+
+.banner5-info-3>h1 {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.banner5-info-3>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 276px;
+}
+
+/* Baner-05 End */
+
+
+
+
+/* My Cupon Section */
+.cuppon {
+    position: absolute;
+    padding-top: 150.17px;
+    padding-left: 746.74px;
+}
+
+
+/* Baner-07 ST */
+.banner7-con {
+    max-width: 1320px;
+    font-family: Inter;
+    text-align: left;
+    margin: auto;
+    padding-bottom: 120px;
+}
+
+.banner7-text>h3 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 120px;
+    padding-bottom: 16px;
+}
+
+.banner7-text>h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 0px;
+    padding-bottom: 22px;
+}
+
+.banner7-text>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    padding-top: 0px;
+    padding-bottom: 48px;
+}
+
+.banner7-imgs {
+    justify-content: space-between;
+    padding-left: 0px;
+    justify-content: space-between
+}
+
+/* Baner-07 End */
+
+
+/* Baner-08 ST */
+.banner8-con {
+    margin: auto;
+    font-family: Inter;
+    width: 1320px;
+    border: 1px solid white;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding-bottom: 80px;
+}
+
+.banner8-con img {
+    padding-top: 80px;
+    padding-bottom: 40px;
+
+}
+
+.banner8-con h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 0px;
+    padding-bottom: 22px;
+}
+
+.banner8-con p {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: auto;
+    padding-top: 0px;
+    padding-bottom: 48px;
+}
+
+
+/* Baner-08 End */
+
+
+
+/* My DTTT */
+.email {
+    border: none;
+    width: 438px;
+    height: 72px;
+    border-radius: 50px 0 0 50px;
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 0px;
+}
+
+.Subscribe-button {
+    border: none;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-left: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+
+
+/* Footer Std */
+footer {
+    text-align: left;
+    width: 1600px;
+    flex-shrink: 0;
+    background: #070211;
+    margin: auto;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFF;
+    padding: 120px 140px;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-link-img{
+    padding-top: 200px;
+}
+
+.contact-link{
+
+    display: inline;
+    padding-left: 24px;
+}
+
+.foot-con-1 {
+    width: 375px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.copy-right {
+    font-weight: 500;
+    padding-top: 260px
+}
+
+.contact {
+    padding-right: 24px
+}
+
+.contact-dec a{
+    text-decoration: none;
+    color: #FFF;
+
+}
+.contact-dec{
+    align-items: top;
+}
+
+.unsub{
+    padding-top: 260px;
+
+}
+
+.unsub a{
+    text-decoration: none;
+    color: #FFF
+}
+
+/* Footer End */
